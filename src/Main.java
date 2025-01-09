@@ -14,5 +14,7 @@ public class Main {
 
         int a = 20;
         int b = 13;
+
+        System.out.println("123");
     }
 }
